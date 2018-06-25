@@ -1,5 +1,6 @@
 /* add CSS class and element and selectors here */
 div {
   background-color: #cc66ff;
-  color: blue
+  color: blue;
+  font-size:80px;
 }
